@@ -1,5 +1,5 @@
-def parrot(squawk)
+def parrot(squawk="Squawk!")
   #Squawk! =
-return (Squawk! = "Squawk!")
-puts Squawk!
+puts "Squawk!"
+return (squawk=Squawk!)
 end
