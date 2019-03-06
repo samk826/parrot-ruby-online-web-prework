@@ -1,6 +1,5 @@
 def parrot(Squawk)
-  #Squawk! = 
+  #Squawk! =
 return (Squawk! = "Squawk!")
 puts Squawk!
 end
-
